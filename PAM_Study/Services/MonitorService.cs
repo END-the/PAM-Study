@@ -41,7 +41,7 @@ namespace PAM_Study.Services
                 if (response.IsSuccessStatusCode)
                 {
                     string content = await response.Content.ReadAsStringAsync();
-                    monitores = JsonSerializer.Deserialize<ObservableCollection<Models.Monitor>>(content, serializerOptions); //desrerialize vai pega coisa do json 
+                    monitores = JsonSerializer.Deserialize<List<Models.Monitor>>(content, serializerOptions); 
                 }
             }
             catch (Exception ex)
