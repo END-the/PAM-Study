@@ -4,8 +4,6 @@
              x:Class="PAM_Study.Views.MonitoresView"
              Title="MonitoresView">
     <VerticalStackLayout>
-        <Button Command="{Binding getMonitoresCommand}"
-            Text="Caregar Monitores"/>
         <ScrollView>
 
             <CollectionView ItemsSource="{Binding Monitores}">

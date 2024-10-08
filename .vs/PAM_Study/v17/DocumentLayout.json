@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\viewmodels\\monitoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\viewmodels\\monitoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\monitoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\monitoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Monitor.cs",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Models\\Monitor.cs",
-              "RelativeDocumentMoniker": "PAM_Study\\Models\\Monitor.cs",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Models\\Monitor.cs",
-              "RelativeToolTip": "PAM_Study\\Models\\Monitor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:29:19.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MonitorService.cs",
               "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\MonitorService.cs",
               "RelativeDocumentMoniker": "PAM_Study\\Services\\MonitorService.cs",
               "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\MonitorService.cs",
               "RelativeToolTip": "PAM_Study\\Services\\MonitorService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACAAAAAfAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:17:18.086Z",
+              "WhenOpened": "2024-10-08T15:15:31.67Z",
               "EditorCaption": ""
             },
             {
@@ -66,35 +49,35 @@
               "RelativeDocumentMoniker": "PAM_Study\\ViewModels\\MonitoresViewModel.cs",
               "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\ViewModels\\MonitoresViewModel.cs",
               "RelativeToolTip": "PAM_Study\\ViewModels\\MonitoresViewModel.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:13:27.064Z",
+              "WhenOpened": "2024-10-08T14:40:40.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MonitoresView.xaml",
               "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml",
               "RelativeDocumentMoniker": "PAM_Study\\Views\\MonitoresView.xaml",
               "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml",
               "RelativeToolTip": "PAM_Study\\Views\\MonitoresView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T15:11:14.491Z",
+              "WhenOpened": "2024-10-08T14:39:32.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\App.xaml",
-              "RelativeDocumentMoniker": "PAM_Study\\App.xaml",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\App.xaml",
-              "RelativeToolTip": "PAM_Study\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-01T15:09:49.792Z",
+              "DocumentIndex": 3,
+              "Title": "MonitoresView.xaml.cs",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "RelativeDocumentMoniker": "PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "RelativeToolTip": "PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:04:41.859Z",
               "EditorCaption": ""
             }
           ]

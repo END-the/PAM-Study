@@ -10,13 +10,13 @@ using PAM_Study.Models;
 
 namespace PAM_Study.Services
 {
-    internal class MonitorService
+    public class MonitorService
     {
 
         private readonly HttpClient client;
         private readonly JsonSerializerOptions serializerOptions;
         private Models.Monitor monitor;
-        private List<Models.Monitor> monitores;
+        private ObservableCollection<Models.Monitor> monitores;
 
 
 
@@ -30,7 +30,7 @@ namespace PAM_Study.Services
             };
         }
 
-        public async Task<List<Models.Monitor>> getAllMonitorsAsync()
+        public async Task<ObservableCollection<Models.Monitor>> getAllMonitorsAsync()
         {
             Uri uri = new Uri("https://localhost/monitores");
 
@@ -41,7 +41,7 @@ namespace PAM_Study.Services
                 if (response.IsSuccessStatusCode)
                 {
                     string content = await response.Content.ReadAsStringAsync();
-                    monitores = JsonSerializer.Deserialize<List<Models.Monitor>>(content, serializerOptions); 
+                    monitores = JsonSerializer.Deserialize<ObservableCollection<Models.Monitor>>(content, serializerOptions); 
                 }
             }
             catch (Exception ex)
