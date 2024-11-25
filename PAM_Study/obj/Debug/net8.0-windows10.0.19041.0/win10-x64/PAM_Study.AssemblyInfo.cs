@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAM_Study")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1bcdeb37259cd3a05b2419b1c8d620739c236d34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3d43c5675a2e9074513561f33f76152b9f1f3a4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAM_Study")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAM_Study")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

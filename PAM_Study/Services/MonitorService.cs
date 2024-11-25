@@ -51,6 +51,62 @@ namespace PAM_Study.Services
 
             return monitores;
         }
+        //NADA DAKI PRA BAIXO TA TESTSADO/CERTO
+        public async Task<Models.Monitor> GetMonitorsByIdAsync(long id)
+        {
+            Uri uri = new Uri("https://localhost/monitores/{id}");
+            try
+            {
+                HttpResponseMessage response = await client.GetAsync(uri);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    string content = await response.Content.ReadAsStringAsync();
+                    monitor = JsonSerializer.Deserialize<Models.Monitor>(content, serializerOptions);
+                }
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error fetching data: {ex.Message}");
+            }
+            return monitor;
+        }
+
+
+        public async Task DeleteMonitorsAsync(long id)
+        {
+            Uri uri = new Uri("https://localhost/monitores/{id}");
+            try
+            {
+                HttpResponseMessage response = await client.DeleteAsync(uri);
+
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error fetching data: {ex.Message}");
+            }
+
+        }
+        public async Task<Models.Monitor> UpdateMonitorAsync(Models.Monitor monitor)
+        {
+
+            return monitor;
+        }
+        public async Task<Models.Monitor> InsertMonitorAsync(Models.Monitor monitor)
+        {
+            Uri uri = new Uri("https://localhost/monitores");
+            try
+            {vv
+                monitor = JsonSerializer.Serialize<Models.Monitor>(content, serializerOptions);
+                HttpResponseMessage response = await client.PostAsync(uri, monitor);
+
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error fetching data: {ex.Message}");
+            }
+            return monitor;
+        }
 
     }
 }

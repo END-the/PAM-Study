@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Mxl+xbDxZoI=",
+  "dgSpecHash": "H4HFN8IR9ZM=",
   "success": true,
   "projectFilePath": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\PAM_Study.csproj",
   "expectedPackageFiles": [
@@ -23,17 +23,18 @@
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.graphics.win2d\\1.2.0\\microsoft.graphics.win2d.1.2.0.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls\\8.0.61\\microsoft.maui.controls.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.61\\microsoft.maui.controls.build.tasks.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.61\\microsoft.maui.controls.compatibility.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.core\\8.0.61\\microsoft.maui.controls.core.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.xaml\\8.0.61\\microsoft.maui.controls.xaml.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.core\\8.0.61\\microsoft.maui.core.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.essentials\\8.0.61\\microsoft.maui.essentials.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.graphics\\8.0.61\\microsoft.maui.graphics.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\8.0.61\\microsoft.maui.graphics.win2d.winui.desktop.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\microsoft.maui.resizetizer.8.0.61.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls\\8.0.82\\microsoft.maui.controls.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.82\\microsoft.maui.controls.build.tasks.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.82\\microsoft.maui.controls.compatibility.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.core\\8.0.82\\microsoft.maui.controls.core.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.xaml\\8.0.82\\microsoft.maui.controls.xaml.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.core\\8.0.82\\microsoft.maui.core.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.essentials\\8.0.82\\microsoft.maui.essentials.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.graphics\\8.0.82\\microsoft.maui.graphics.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\8.0.82\\microsoft.maui.graphics.win2d.winui.desktop.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.82\\microsoft.maui.resizetizer.8.0.82.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.netcore.app\\1.0.5\\microsoft.netcore.app.1.0.5.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.netcore.dotnethost\\1.0.1\\microsoft.netcore.dotnethost.1.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\1.0.5\\microsoft.netcore.dotnethostpolicy.1.0.5.nupkg.sha512",
@@ -47,7 +48,7 @@
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240311000\\microsoft.windowsappsdk.1.5.240311000.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240627000\\microsoft.windowsappsdk.1.5.240627000.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\runtime.any.system.collections\\4.0.11\\runtime.any.system.collections.4.0.11.nupkg.sha512",
@@ -264,17 +265,17 @@
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.44\\microsoft.windows.sdk.net.ref.10.0.19041.44.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MvvmLightLibs 5.4.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-ios17.2'. This package may not be fully compatible with your project.",
+      "message": "Package 'MvvmLightLibs 5.4.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-ios18.0'. This package may not be fully compatible with your project.",
       "libraryId": "MvvmLightLibs",
       "targetGraphs": [
-        "net8.0-ios17.2"
+        "net8.0-ios18.0"
       ]
     }
   ]

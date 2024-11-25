@@ -11,6 +11,13 @@ build_property.RootNamespace = PAM_Study
 build_property.ProjectDir = D:\endy e gab\pam\aula4\PAM_Study\PAM_Study\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
 
 [D:/endy e gab/pam/aula4/PAM_Study/PAM_Study/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -41,6 +48,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PAM_Study.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/endy e gab/pam/aula4/PAM_Study/PAM_Study/Views/CadastroMonitor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAM_Study.Views.CadastroMonitor.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CadastroMonitor.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CadastroMonitor.xaml
 
 [D:/endy e gab/pam/aula4/PAM_Study/PAM_Study/Views/MonitoresView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

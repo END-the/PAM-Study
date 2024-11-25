@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\viewmodels\\monitoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\viewmodels\\monitoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\monitoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\monitoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitorService.cs",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\MonitorService.cs",
+              "RelativeDocumentMoniker": "PAM_Study\\Services\\MonitorService.cs",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\MonitorService.cs",
+              "RelativeToolTip": "PAM_Study\\Services\\MonitorService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:15:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitoresViewModel.cs",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\ViewModels\\MonitoresViewModel.cs",
+              "RelativeDocumentMoniker": "PAM_Study\\ViewModels\\MonitoresViewModel.cs",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\ViewModels\\MonitoresViewModel.cs",
+              "RelativeToolTip": "PAM_Study\\ViewModels\\MonitoresViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:40:40.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonitoresView.xaml",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml",
+              "RelativeDocumentMoniker": "PAM_Study\\Views\\MonitoresView.xaml",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml",
+              "RelativeToolTip": "PAM_Study\\Views\\MonitoresView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T14:39:32.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonitoresView.xaml.cs",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "RelativeDocumentMoniker": "PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "RelativeToolTip": "PAM_Study\\Views\\MonitoresView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:04:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
