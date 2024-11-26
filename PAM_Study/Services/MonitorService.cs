@@ -92,11 +92,12 @@ namespace PAM_Study.Services
 
             return monitor;
         }
+
         public async Task<Models.Monitor> InsertMonitorAsync(Models.Monitor monitor)
         {
             Uri uri = new Uri("https://localhost/monitores");
             try
-            {vv
+            {
                 monitor = JsonSerializer.Serialize<Models.Monitor>(content, serializerOptions);
                 HttpResponseMessage response = await client.PostAsync(uri, monitor);
 

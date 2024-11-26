@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\viewmodels\\cadastromonitorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\viewmodels\\cadastromonitorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\cadastromonitor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\cadastromonitor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\viewmodels\\monitoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\viewmodels\\monitoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\monitoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\views\\monitoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\views\\monitoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|d:\\endy e gab\\pam\\aula4\\pam_study\\pam_study\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A8E271-E05A-4B60-B8DE-2452D3CA33EF}|PAM_Study\\PAM_Study.csproj|solutionrelative:pam_study\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MonitorService.cs",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\MonitorService.cs",
-              "RelativeDocumentMoniker": "PAM_Study\\Services\\MonitorService.cs",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\MonitorService.cs",
-              "RelativeToolTip": "PAM_Study\\Services\\MonitorService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwDUAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PAM_Study\\Models\\User.cs",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Models\\User.cs",
+              "RelativeToolTip": "PAM_Study\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:15:31.67Z",
+              "WhenOpened": "2024-11-26T14:58:06.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CadastroMonitorViewModel.cs",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\ViewModels\\CadastroMonitorViewModel.cs",
-              "RelativeDocumentMoniker": "PAM_Study\\ViewModels\\CadastroMonitorViewModel.cs",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\ViewModels\\CadastroMonitorViewModel.cs",
-              "RelativeToolTip": "PAM_Study\\ViewModels\\CadastroMonitorViewModel.cs",
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "PAM_Study\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "PAM_Study\\Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:42:19.259Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-26T14:55:51.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CadastroMonitor.xaml",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\CadastroMonitor.xaml",
-              "RelativeDocumentMoniker": "PAM_Study\\Views\\CadastroMonitor.xaml",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\CadastroMonitor.xaml",
-              "RelativeToolTip": "PAM_Study\\Views\\CadastroMonitor.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-19T14:40:17.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MonitoresViewModel.cs",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\ViewModels\\MonitoresViewModel.cs",
-              "RelativeDocumentMoniker": "PAM_Study\\ViewModels\\MonitoresViewModel.cs",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\ViewModels\\MonitoresViewModel.cs",
-              "RelativeToolTip": "PAM_Study\\ViewModels\\MonitoresViewModel.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAABBwAQAAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PAM_Study\\Services\\UserService.cs",
+              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Services\\UserService.cs",
+              "RelativeToolTip": "PAM_Study\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:40:40.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MonitoresView.xaml",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml",
-              "RelativeDocumentMoniker": "PAM_Study\\Views\\MonitoresView.xaml",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml",
-              "RelativeToolTip": "PAM_Study\\Views\\MonitoresView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-08T14:39:32.38Z",
+              "WhenOpened": "2024-11-26T14:27:04.449Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MonitoresView.xaml.cs",
-              "DocumentMoniker": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml.cs",
-              "RelativeDocumentMoniker": "PAM_Study\\Views\\MonitoresView.xaml.cs",
-              "ToolTip": "D:\\endy e gab\\pam\\aula4\\PAM_Study\\PAM_Study\\Views\\MonitoresView.xaml.cs",
-              "RelativeToolTip": "PAM_Study\\Views\\MonitoresView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:04:41.859Z"
             }
           ]
         }
